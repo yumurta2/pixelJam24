@@ -1,0 +1,14 @@
+{
+  "name": "pixeljam24",
+  "version": "1.0.0",
+  "description": "pixel gamejam icin oyun",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "yumurta",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.3"
+  }
+}
